@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://luishmr0.github.io/b2/post/hugo/</loc>
+    <lastmod>2016-10-28T10:54:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luishmr0.github.io/b2/post/heroku/</loc>
+    <lastmod>2016-10-25T10:54:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luishmr0.github.io/b2/post/restful-go/</loc>
+    <lastmod>2016-10-19T10:54:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luishmr0.github.io/b2/post/go-consumo.api/</loc>
+    <lastmod>2016-10-18T10:54:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luishmr0.github.io/b2/post/ghost-local/</loc>
+    <lastmod>2016-10-15T10:54:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luishmr0.github.io/b2/post/go/</loc>
+    <lastmod>2016-10-05T10:54:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luishmr0.github.io/b2/post/go-config/</loc>
+    <lastmod>2016-09-03T10:54:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luishmr0.github.io/b2/about/</loc>
+    <lastmod>2016-07-11T10:54:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luishmr0.github.io/b2/post/ghost/</loc>
+    <lastmod>2016-07-11T10:54:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luishmr0.github.io/b2/tags/api/</loc>
+    <lastmod>2016-10-19T10:54:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://luishmr0.github.io/b2/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://luishmr0.github.io/b2/tags/cms/</loc>
+    <lastmod>2016-10-25T10:54:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://luishmr0.github.io/b2/tags/configuracion/</loc>
+    <lastmod>2016-09-03T10:54:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://luishmr0.github.io/b2/tags/ghost/</loc>
+    <lastmod>2016-10-25T10:54:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://luishmr0.github.io/b2/tags/github/</loc>
+    <lastmod>2016-10-28T10:54:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://luishmr0.github.io/b2/tags/go/</loc>
+    <lastmod>2016-10-19T10:54:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://luishmr0.github.io/b2/tags/golang/</loc>
+    <lastmod>2016-10-28T10:54:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://luishmr0.github.io/b2/tags/hugo/</loc>
+    <lastmod>2016-10-28T10:54:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://luishmr0.github.io/b2/post/</loc>
+    <lastmod>2016-10-28T10:54:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://luishmr0.github.io/b2/tags/</loc>
+    <lastmod>2016-10-19T10:54:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://luishmr0.github.io/b2/</loc>
+    <lastmod>2016-10-28T10:54:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
